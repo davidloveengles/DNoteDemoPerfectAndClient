@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "bd311551dc79eac3515356c7a1bcf8f3"
+build_time: [548698011, 838351000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/Sources/ContentTableOperator.swift": [548694619, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/Sources/DBBaseOperator.swift": [548415508, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/Sources/main.swift": [548487803, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/Sources/MySQLConnect.swift": [548401410, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/Sources/ServerManager.swift": [548695273, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/Sources/UserTableOperator.swift": [548498447, 0]

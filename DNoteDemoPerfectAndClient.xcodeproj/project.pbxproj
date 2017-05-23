@@ -1,0 +1,628 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		23A2D9CE1ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_832;
+			remoteInfo = PerfectLib;
+		};
+		23A2D9D01ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_833;
+			remoteInfo = PerfectThread;
+		};
+		23A2D9D21ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_834;
+			remoteInfo = COpenSSL;
+		};
+		23A2D9D41ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_835;
+			remoteInfo = PerfectCrypto;
+		};
+		23A2D9D61ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_836;
+			remoteInfo = PerfectNet;
+		};
+		23A2D9D81ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_837;
+			remoteInfo = PerfectHTTP;
+		};
+		23A2D9DA1ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_838;
+			remoteInfo = CZlib;
+		};
+		23A2D9DC1ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_839;
+			remoteInfo = PerfectHTTPServer;
+		};
+		23A2D9DE1ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_840;
+			remoteInfo = CHTTPParser;
+		};
+		23A2D9E01ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_841;
+			remoteInfo = MySQL;
+		};
+		23A2D9E21ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_842;
+			remoteInfo = PerfectMustache;
+		};
+		23A2D9E41ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_843;
+			remoteInfo = SwiftMoment;
+		};
+		23A2D9E61ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_844;
+			remoteInfo = PerfectCURL;
+		};
+		23A2D9E81ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_845;
+			remoteInfo = PerfectLogger;
+		};
+		23A2D9EA1ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_846;
+			remoteInfo = SwiftRandom;
+		};
+		23A2D9EC1ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_847;
+			remoteInfo = PerfectRequestLogger;
+		};
+		23A2D9EE1ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_848;
+			remoteInfo = StORM;
+		};
+		23A2D9F01ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_849;
+			remoteInfo = MySQLStORM;
+		};
+		23A2D9F21ED3DEED005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = OBJ_850;
+			remoteInfo = PerfectDemo4;
+		};
+		23A2DA241ED3DEFD005C4756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A2DA201ED3DEFD005C4756 /* DNote.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 23B4F7961ECDF2FA003C9C93;
+			remoteInfo = DNote;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		23A2D9B01ED3DEED005C4756 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = PerfectDemo4.xcodeproj; sourceTree = "<group>"; };
+		23A2D9B51ED3DEED005C4756 /* ContentTableOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentTableOperator.swift; sourceTree = "<group>"; };
+		23A2D9B61ED3DEED005C4756 /* DBBaseOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBBaseOperator.swift; sourceTree = "<group>"; };
+		23A2D9B71ED3DEED005C4756 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		23A2D9B81ED3DEED005C4756 /* MySQLConnect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySQLConnect.swift; sourceTree = "<group>"; };
+		23A2D9B91ED3DEED005C4756 /* ServerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServerManager.swift; sourceTree = "<group>"; };
+		23A2D9BA1ED3DEED005C4756 /* UserTableOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserTableOperator.swift; sourceTree = "<group>"; };
+		23A2D9FD1ED3DEFD005C4756 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		23A2D9FE1ED3DEFD005C4756 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		23A2DA001ED3DEFD005C4756 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		23A2DA021ED3DEFD005C4756 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		23A2DA031ED3DEFD005C4756 /* ContentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentTableViewController.swift; sourceTree = "<group>"; };
+		23A2DA041ED3DEFD005C4756 /* CreateContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateContentViewController.swift; sourceTree = "<group>"; };
+		23A2DA051ED3DEFD005C4756 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23A2DA061ED3DEFD005C4756 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		23A2DA071ED3DEFD005C4756 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		23A2DA091ED3DEFD005C4756 /* CustomDateFormatTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDateFormatTransform.swift; sourceTree = "<group>"; };
+		23A2DA0A1ED3DEFD005C4756 /* DataTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataTransform.swift; sourceTree = "<group>"; };
+		23A2DA0B1ED3DEFD005C4756 /* DateFormatterTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatterTransform.swift; sourceTree = "<group>"; };
+		23A2DA0C1ED3DEFD005C4756 /* DateTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateTransform.swift; sourceTree = "<group>"; };
+		23A2DA0D1ED3DEFD005C4756 /* DictionaryTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictionaryTransform.swift; sourceTree = "<group>"; };
+		23A2DA0E1ED3DEFD005C4756 /* EnumOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumOperators.swift; sourceTree = "<group>"; };
+		23A2DA0F1ED3DEFD005C4756 /* EnumTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumTransform.swift; sourceTree = "<group>"; };
+		23A2DA101ED3DEFD005C4756 /* FromJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FromJSON.swift; sourceTree = "<group>"; };
+		23A2DA111ED3DEFD005C4756 /* HexColorTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexColorTransform.swift; sourceTree = "<group>"; };
+		23A2DA121ED3DEFD005C4756 /* ImmutableMappable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImmutableMappable.swift; sourceTree = "<group>"; };
+		23A2DA131ED3DEFD005C4756 /* IntegerOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerOperators.swift; sourceTree = "<group>"; };
+		23A2DA141ED3DEFD005C4756 /* ISO8601DateTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISO8601DateTransform.swift; sourceTree = "<group>"; };
+		23A2DA151ED3DEFD005C4756 /* Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
+		23A2DA161ED3DEFD005C4756 /* MapError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapError.swift; sourceTree = "<group>"; };
+		23A2DA171ED3DEFD005C4756 /* Mappable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mappable.swift; sourceTree = "<group>"; };
+		23A2DA181ED3DEFD005C4756 /* Mapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mapper.swift; sourceTree = "<group>"; };
+		23A2DA191ED3DEFD005C4756 /* NSDecimalNumberTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSDecimalNumberTransform.swift; sourceTree = "<group>"; };
+		23A2DA1A1ED3DEFD005C4756 /* Operators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operators.swift; sourceTree = "<group>"; };
+		23A2DA1B1ED3DEFD005C4756 /* ToJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToJSON.swift; sourceTree = "<group>"; };
+		23A2DA1C1ED3DEFD005C4756 /* TransformOf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformOf.swift; sourceTree = "<group>"; };
+		23A2DA1D1ED3DEFD005C4756 /* TransformOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformOperators.swift; sourceTree = "<group>"; };
+		23A2DA1E1ED3DEFD005C4756 /* TransformType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformType.swift; sourceTree = "<group>"; };
+		23A2DA1F1ED3DEFD005C4756 /* URLTransform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLTransform.swift; sourceTree = "<group>"; };
+		23A2DA201ED3DEFD005C4756 /* DNote.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = DNote.xcodeproj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2315BA0B1ED3DCEA00D1999E = {
+			isa = PBXGroup;
+			children = (
+				23A2D9FB1ED3DEFD005C4756 /* DNote */,
+				23A2C8E31ED3DEDD005C4756 /* PerfectDemo4 */,
+			);
+			sourceTree = "<group>";
+		};
+		23A2C8E31ED3DEDD005C4756 /* PerfectDemo4 */ = {
+			isa = PBXGroup;
+			children = (
+				23A2D9B01ED3DEED005C4756 /* Package.swift */,
+				23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */,
+				23A2D9B41ED3DEED005C4756 /* Sources */,
+			);
+			path = PerfectDemo4;
+			sourceTree = "<group>";
+		};
+		23A2D9B21ED3DEED005C4756 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				23A2D9CF1ED3DEED005C4756 /* PerfectLib.framework */,
+				23A2D9D11ED3DEED005C4756 /* PerfectThread.framework */,
+				23A2D9D31ED3DEED005C4756 /* COpenSSL.framework */,
+				23A2D9D51ED3DEED005C4756 /* PerfectCrypto.framework */,
+				23A2D9D71ED3DEED005C4756 /* PerfectNet.framework */,
+				23A2D9D91ED3DEED005C4756 /* PerfectHTTP.framework */,
+				23A2D9DB1ED3DEED005C4756 /* CZlib.framework */,
+				23A2D9DD1ED3DEED005C4756 /* PerfectHTTPServer.framework */,
+				23A2D9DF1ED3DEED005C4756 /* CHTTPParser.framework */,
+				23A2D9E11ED3DEED005C4756 /* MySQL.framework */,
+				23A2D9E31ED3DEED005C4756 /* PerfectMustache.framework */,
+				23A2D9E51ED3DEED005C4756 /* SwiftMoment.framework */,
+				23A2D9E71ED3DEED005C4756 /* PerfectCURL.framework */,
+				23A2D9E91ED3DEED005C4756 /* PerfectLogger.framework */,
+				23A2D9EB1ED3DEED005C4756 /* SwiftRandom.framework */,
+				23A2D9ED1ED3DEED005C4756 /* PerfectRequestLogger.framework */,
+				23A2D9EF1ED3DEED005C4756 /* StORM.framework */,
+				23A2D9F11ED3DEED005C4756 /* MySQLStORM.framework */,
+				23A2D9F31ED3DEED005C4756 /* PerfectDemo4 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		23A2D9B41ED3DEED005C4756 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				23A2D9B51ED3DEED005C4756 /* ContentTableOperator.swift */,
+				23A2D9B61ED3DEED005C4756 /* DBBaseOperator.swift */,
+				23A2D9B71ED3DEED005C4756 /* main.swift */,
+				23A2D9B81ED3DEED005C4756 /* MySQLConnect.swift */,
+				23A2D9B91ED3DEED005C4756 /* ServerManager.swift */,
+				23A2D9BA1ED3DEED005C4756 /* UserTableOperator.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		23A2D9FB1ED3DEFD005C4756 /* DNote */ = {
+			isa = PBXGroup;
+			children = (
+				23A2D9FC1ED3DEFD005C4756 /* DNote */,
+				23A2DA201ED3DEFD005C4756 /* DNote.xcodeproj */,
+			);
+			path = DNote;
+			sourceTree = "<group>";
+		};
+		23A2D9FC1ED3DEFD005C4756 /* DNote */ = {
+			isa = PBXGroup;
+			children = (
+				23A2D9FD1ED3DEFD005C4756 /* AppDelegate.swift */,
+				23A2D9FE1ED3DEFD005C4756 /* Assets.xcassets */,
+				23A2D9FF1ED3DEFD005C4756 /* LaunchScreen.storyboard */,
+				23A2DA011ED3DEFD005C4756 /* Main.storyboard */,
+				23A2DA031ED3DEFD005C4756 /* ContentTableViewController.swift */,
+				23A2DA041ED3DEFD005C4756 /* CreateContentViewController.swift */,
+				23A2DA051ED3DEFD005C4756 /* Info.plist */,
+				23A2DA061ED3DEFD005C4756 /* LoginViewController.swift */,
+				23A2DA071ED3DEFD005C4756 /* Models.swift */,
+				23A2DA081ED3DEFD005C4756 /* ObjectMapper */,
+			);
+			path = DNote;
+			sourceTree = "<group>";
+		};
+		23A2DA081ED3DEFD005C4756 /* ObjectMapper */ = {
+			isa = PBXGroup;
+			children = (
+				23A2DA091ED3DEFD005C4756 /* CustomDateFormatTransform.swift */,
+				23A2DA0A1ED3DEFD005C4756 /* DataTransform.swift */,
+				23A2DA0B1ED3DEFD005C4756 /* DateFormatterTransform.swift */,
+				23A2DA0C1ED3DEFD005C4756 /* DateTransform.swift */,
+				23A2DA0D1ED3DEFD005C4756 /* DictionaryTransform.swift */,
+				23A2DA0E1ED3DEFD005C4756 /* EnumOperators.swift */,
+				23A2DA0F1ED3DEFD005C4756 /* EnumTransform.swift */,
+				23A2DA101ED3DEFD005C4756 /* FromJSON.swift */,
+				23A2DA111ED3DEFD005C4756 /* HexColorTransform.swift */,
+				23A2DA121ED3DEFD005C4756 /* ImmutableMappable.swift */,
+				23A2DA131ED3DEFD005C4756 /* IntegerOperators.swift */,
+				23A2DA141ED3DEFD005C4756 /* ISO8601DateTransform.swift */,
+				23A2DA151ED3DEFD005C4756 /* Map.swift */,
+				23A2DA161ED3DEFD005C4756 /* MapError.swift */,
+				23A2DA171ED3DEFD005C4756 /* Mappable.swift */,
+				23A2DA181ED3DEFD005C4756 /* Mapper.swift */,
+				23A2DA191ED3DEFD005C4756 /* NSDecimalNumberTransform.swift */,
+				23A2DA1A1ED3DEFD005C4756 /* Operators.swift */,
+				23A2DA1B1ED3DEFD005C4756 /* ToJSON.swift */,
+				23A2DA1C1ED3DEFD005C4756 /* TransformOf.swift */,
+				23A2DA1D1ED3DEFD005C4756 /* TransformOperators.swift */,
+				23A2DA1E1ED3DEFD005C4756 /* TransformType.swift */,
+				23A2DA1F1ED3DEFD005C4756 /* URLTransform.swift */,
+			);
+			path = ObjectMapper;
+			sourceTree = "<group>";
+		};
+		23A2DA211ED3DEFD005C4756 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				23A2DA251ED3DEFD005C4756 /* DNote.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2315BA0C1ED3DCEA00D1999E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = com.david;
+			};
+			buildConfigurationList = 2315BA0F1ED3DCEA00D1999E /* Build configuration list for PBXProject "DNoteDemoPerfectAndClient" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2315BA0B1ED3DCEA00D1999E;
+			productRefGroup = 2315BA0B1ED3DCEA00D1999E;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 23A2DA211ED3DEFD005C4756 /* Products */;
+					ProjectRef = 23A2DA201ED3DEFD005C4756 /* DNote.xcodeproj */;
+				},
+				{
+					ProductGroup = 23A2D9B21ED3DEED005C4756 /* Products */;
+					ProjectRef = 23A2D9B11ED3DEED005C4756 /* PerfectDemo4.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		23A2D9CF1ED3DEED005C4756 /* PerfectLib.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectLib.framework;
+			remoteRef = 23A2D9CE1ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9D11ED3DEED005C4756 /* PerfectThread.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectThread.framework;
+			remoteRef = 23A2D9D01ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9D31ED3DEED005C4756 /* COpenSSL.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = COpenSSL.framework;
+			remoteRef = 23A2D9D21ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9D51ED3DEED005C4756 /* PerfectCrypto.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectCrypto.framework;
+			remoteRef = 23A2D9D41ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9D71ED3DEED005C4756 /* PerfectNet.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectNet.framework;
+			remoteRef = 23A2D9D61ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9D91ED3DEED005C4756 /* PerfectHTTP.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectHTTP.framework;
+			remoteRef = 23A2D9D81ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9DB1ED3DEED005C4756 /* CZlib.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = CZlib.framework;
+			remoteRef = 23A2D9DA1ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9DD1ED3DEED005C4756 /* PerfectHTTPServer.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectHTTPServer.framework;
+			remoteRef = 23A2D9DC1ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9DF1ED3DEED005C4756 /* CHTTPParser.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = CHTTPParser.framework;
+			remoteRef = 23A2D9DE1ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9E11ED3DEED005C4756 /* MySQL.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = MySQL.framework;
+			remoteRef = 23A2D9E01ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9E31ED3DEED005C4756 /* PerfectMustache.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectMustache.framework;
+			remoteRef = 23A2D9E21ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9E51ED3DEED005C4756 /* SwiftMoment.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwiftMoment.framework;
+			remoteRef = 23A2D9E41ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9E71ED3DEED005C4756 /* PerfectCURL.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectCURL.framework;
+			remoteRef = 23A2D9E61ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9E91ED3DEED005C4756 /* PerfectLogger.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectLogger.framework;
+			remoteRef = 23A2D9E81ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9EB1ED3DEED005C4756 /* SwiftRandom.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = SwiftRandom.framework;
+			remoteRef = 23A2D9EA1ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9ED1ED3DEED005C4756 /* PerfectRequestLogger.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = PerfectRequestLogger.framework;
+			remoteRef = 23A2D9EC1ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9EF1ED3DEED005C4756 /* StORM.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = StORM.framework;
+			remoteRef = 23A2D9EE1ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9F11ED3DEED005C4756 /* MySQLStORM.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = MySQLStORM.framework;
+			remoteRef = 23A2D9F01ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2D9F31ED3DEED005C4756 /* PerfectDemo4 */ = {
+			isa = PBXReferenceProxy;
+			fileType = text;
+			path = PerfectDemo4;
+			remoteRef = 23A2D9F21ED3DEED005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		23A2DA251ED3DEFD005C4756 /* DNote.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = DNote.app;
+			remoteRef = 23A2DA241ED3DEFD005C4756 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXVariantGroup section */
+		23A2D9FF1ED3DEFD005C4756 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23A2DA001ED3DEFD005C4756 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		23A2DA011ED3DEFD005C4756 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23A2DA021ED3DEFD005C4756 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2315BA241ED3DCEA00D1999E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2315BA251ED3DCEA00D1999E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2315BA0F1ED3DCEA00D1999E /* Build configuration list for PBXProject "DNoteDemoPerfectAndClient" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2315BA241ED3DCEA00D1999E /* Debug */,
+				2315BA251ED3DCEA00D1999E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2315BA0C1ED3DCEA00D1999E /* Project object */;
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectRequestLogger.build/master.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/Perfect-RequestLogger.git-3102495399181047151/Sources/PerfectRequestLogger.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectRequestLogger.build/PerfectRequestLogger.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectRequestLogger.build/PerfectRequestLogger.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectRequestLogger.build/PerfectRequestLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectRequestLogger.build/PerfectRequestLogger.swiftdeps"
+  }
+}

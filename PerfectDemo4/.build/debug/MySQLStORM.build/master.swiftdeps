@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "776347c7b578a60149a0ffefef4742be"
+build_time: [548697612, 168767000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Convenience.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Delete.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Insert.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/MySQLConnect.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/MySQLStORM.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/parseRows.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Select.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/SQL.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Update.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Upsert.swift": [548697559, 0]

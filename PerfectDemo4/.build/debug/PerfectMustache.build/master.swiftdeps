@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "c650ab41b678c7eecad25115a88e0c52"
+build_time: [548697614, 97755000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-Mustache.git-4271886153857801499/Sources/Mustache.swift": [548697560, 0]

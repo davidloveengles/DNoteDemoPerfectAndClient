@@ -1,0 +1,366 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UserTableOperator"
+provides-nominal:
+- "C12PerfectDemo417UserTableOperator"
+provides-member:
+- ["C12PerfectDemo417UserTableOperator", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private ">"
+- !private "AssignmentPrecedence"
+- "DBBaseOperator"
+- "ExecuteResult"
+- "QueryResult"
+- "String"
+- "StringLiteralType"
+- !private "UnicodeScalarType"
+- "UserTableOperator"
+- !private "key_createTime"
+- !private "key_password"
+- !private "key_userId"
+- !private "key_username"
+depends-member:
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "executeSql"]
+- !private ["Ps9AnyObject", "forEachRow"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "key_createTime"]
+- !private ["Ps9AnyObject", "key_password"]
+- !private ["Ps9AnyObject", "key_userId"]
+- !private ["Ps9AnyObject", "key_username"]
+- !private ["Ps9AnyObject", "tableName"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "init"]
+- !private ["Sa", "jsonEncodedString"]
+- !private ["Sa", "subscript"]
+- !private ["Ps23BidirectionalCollection", "append"]
+- !private ["Ps23BidirectionalCollection", "count"]
+- !private ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps23BidirectionalCollection", "jsonEncodedString"]
+- !private ["Ps23BidirectionalCollection", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps7CVarArg", "append"]
+- !private ["Ps7CVarArg", "count"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "jsonEncodedString"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps10Collection", "append"]
+- !private ["Ps10Collection", "count"]
+- !private ["Ps10Collection", "init"]
+- !private ["Ps10Collection", "jsonEncodedString"]
+- !private ["Ps10Collection", "subscript"]
+- ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "append"]
+- !private ["Ps28CustomDebugStringConvertible", "count"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "jsonEncodedString"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "append"]
+- !private ["Ps17CustomReflectable", "count"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "jsonEncodedString"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "append"]
+- !private ["Ps23CustomStringConvertible", "count"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "jsonEncodedString"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- ["C12PerfectDemo414DBBaseOperator", "ExecuteResult"]
+- ["C12PerfectDemo414DBBaseOperator", "QueryResult"]
+- ["C12PerfectDemo414DBBaseOperator", "String"]
+- ["C12PerfectDemo414DBBaseOperator", "deleteUserInfo"]
+- !private ["C12PerfectDemo414DBBaseOperator", "executeSql"]
+- ["C12PerfectDemo414DBBaseOperator", "init"]
+- ["C12PerfectDemo414DBBaseOperator", "insertUserInfo"]
+- !private ["C12PerfectDemo414DBBaseOperator", "key_createTime"]
+- !private ["C12PerfectDemo414DBBaseOperator", "key_password"]
+- !private ["C12PerfectDemo414DBBaseOperator", "key_userId"]
+- !private ["C12PerfectDemo414DBBaseOperator", "key_username"]
+- ["C12PerfectDemo414DBBaseOperator", "queryUserInfo"]
+- ["C12PerfectDemo414DBBaseOperator", "tableName"]
+- ["C12PerfectDemo414DBBaseOperator", "updateUserInfo"]
+- ["C12PerfectDemo414DBBaseOperator", ""]
+- !private ["Vs10Dictionary", "init"]
+- !private ["Vs10Dictionary", "subscript"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "append"]
+- !private ["Ps25ExpressibleByArrayLiteral", "count"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "jsonEncodedString"]
+- !private ["Ps25ExpressibleByArrayLiteral", "subscript"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps16IteratorProtocol", "forEachRow"]
+- !private ["P10PerfectLib15JSONConvertible", "_getBuiltinLogicValue"]
+- !private ["P10PerfectLib15JSONConvertible", "append"]
+- !private ["P10PerfectLib15JSONConvertible", "count"]
+- ["P10PerfectLib15JSONConvertible", "init"]
+- !private ["P10PerfectLib15JSONConvertible", "jsonEncodedString"]
+- !private ["P10PerfectLib15JSONConvertible", "subscript"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "append"]
+- !private ["Ps17MutableCollection", "count"]
+- !private ["Ps17MutableCollection", "init"]
+- !private ["Ps17MutableCollection", "jsonEncodedString"]
+- !private ["Ps17MutableCollection", "subscript"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- !private ["Ps22RandomAccessCollection", "append"]
+- !private ["Ps22RandomAccessCollection", "count"]
+- !private ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps22RandomAccessCollection", "jsonEncodedString"]
+- !private ["Ps22RandomAccessCollection", "subscript"]
+- !private ["Ps26RangeReplaceableCollection", "append"]
+- !private ["Ps26RangeReplaceableCollection", "count"]
+- !private ["Ps26RangeReplaceableCollection", "init"]
+- !private ["Ps26RangeReplaceableCollection", "jsonEncodedString"]
+- !private ["Ps26RangeReplaceableCollection", "subscript"]
+- !private ["CC5MySQL5MySQL7Results", "forEachRow"]
+- !private ["Ps8Sequence", "append"]
+- !private ["Ps8Sequence", "count"]
+- !private ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "jsonEncodedString"]
+- !private ["Ps8Sequence", "subscript"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["C12PerfectDemo417UserTableOperator", "ExecuteResult"]
+- ["C12PerfectDemo417UserTableOperator", "QueryResult"]
+- ["C12PerfectDemo417UserTableOperator", "String"]
+- ["C12PerfectDemo417UserTableOperator", "deinit"]
+- ["C12PerfectDemo417UserTableOperator", "deleteUserInfo"]
+- !private ["C12PerfectDemo417UserTableOperator", "executeSql"]
+- ["C12PerfectDemo417UserTableOperator", "init"]
+- ["C12PerfectDemo417UserTableOperator", "insertUserInfo"]
+- !private ["C12PerfectDemo417UserTableOperator", "key_createTime"]
+- !private ["C12PerfectDemo417UserTableOperator", "key_password"]
+- !private ["C12PerfectDemo417UserTableOperator", "key_userId"]
+- !private ["C12PerfectDemo417UserTableOperator", "key_username"]
+- ["C12PerfectDemo417UserTableOperator", "queryUserInfo"]
+- ["C12PerfectDemo417UserTableOperator", "tableName"]
+- ["C12PerfectDemo417UserTableOperator", "updateUserInfo"]
+- !private ["Ps14_ArrayProtocol", "append"]
+- !private ["Ps14_ArrayProtocol", "count"]
+- !private ["Ps14_ArrayProtocol", "init"]
+- !private ["Ps14_ArrayProtocol", "jsonEncodedString"]
+- !private ["Ps14_ArrayProtocol", "subscript"]
+- !private ["Ps23_BidirectionalIndexable", "append"]
+- !private ["Ps23_BidirectionalIndexable", "count"]
+- !private ["Ps23_BidirectionalIndexable", "init"]
+- !private ["Ps23_BidirectionalIndexable", "jsonEncodedString"]
+- !private ["Ps23_BidirectionalIndexable", "subscript"]
+- !private ["Ps24_DestructorSafeContainer", "append"]
+- !private ["Ps24_DestructorSafeContainer", "count"]
+- !private ["Ps24_DestructorSafeContainer", "init"]
+- !private ["Ps24_DestructorSafeContainer", "jsonEncodedString"]
+- !private ["Ps24_DestructorSafeContainer", "subscript"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps33_ExpressibleByStringInterpolation", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps10_Indexable", "append"]
+- !private ["Ps10_Indexable", "count"]
+- !private ["Ps10_Indexable", "init"]
+- !private ["Ps10_Indexable", "jsonEncodedString"]
+- !private ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "append"]
+- !private ["Ps14_IndexableBase", "count"]
+- !private ["Ps14_IndexableBase", "init"]
+- !private ["Ps14_IndexableBase", "jsonEncodedString"]
+- !private ["Ps14_IndexableBase", "subscript"]
+- !private ["Ps17_MutableIndexable", "append"]
+- !private ["Ps17_MutableIndexable", "count"]
+- !private ["Ps17_MutableIndexable", "init"]
+- !private ["Ps17_MutableIndexable", "jsonEncodedString"]
+- !private ["Ps17_MutableIndexable", "subscript"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "append"]
+- !private ["Ps21_ObjectiveCBridgeable", "count"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "jsonEncodedString"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+- !private ["Ps22_RandomAccessIndexable", "append"]
+- !private ["Ps22_RandomAccessIndexable", "count"]
+- !private ["Ps22_RandomAccessIndexable", "init"]
+- !private ["Ps22_RandomAccessIndexable", "jsonEncodedString"]
+- !private ["Ps22_RandomAccessIndexable", "subscript"]
+- !private ["Ps26_RangeReplaceableIndexable", "append"]
+- !private ["Ps26_RangeReplaceableIndexable", "count"]
+- !private ["Ps26_RangeReplaceableIndexable", "init"]
+- !private ["Ps26_RangeReplaceableIndexable", "jsonEncodedString"]
+- !private ["Ps26_RangeReplaceableIndexable", "subscript"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "C12PerfectDemo414DBBaseOperator"
+- !private "Vs10Dictionary"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps16IteratorProtocol"
+- "P10PerfectLib15JSONConvertible"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- !private "CC5MySQL5MySQL7Results"
+- !private "Ps8Sequence"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "C12PerfectDemo417UserTableOperator"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps33_ExpressibleByStringInterpolation"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/MySQL.swiftmodule"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/mysql/psi/psi_base.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/mysql/psi/psi_memory.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/my_alloc.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/typelib.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/mysql/plugin_auth_common.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/mysql/client_plugin.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/my_list.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/mysql_time.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/my_command.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/binary_log_types.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/mysql_com.h"
+- "/usr/local/Cellar/mysql/5.7.18_1/include/mysql/mysql_version.h"
+- "/usr/local/include/mysql/mysql.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-mysqlclient.git-5333716826204139417/module.modulemap"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectLogger.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectCURL.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectNet.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectCrypto.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectLib.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectThread.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/SwiftMoment.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectHTTP.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectHTTPServer.swiftmodule"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CZlib/include/module.modulemap"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CHTTPParser/include/module.modulemap"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CZlib/include/../inftrees.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CZlib/include/../zutil.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CZlib/include/../zlib.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CZlib/include/../zconf.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/CZlib/include/czlib.h"
+- "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/debug/PerfectMustache.swiftmodule"
+interface-hash: "a9e72f4ba9d9840bf2feea124bbb156d"

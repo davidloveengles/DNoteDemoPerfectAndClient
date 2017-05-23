@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "d9ccb71d356e743d6b4ad497fc598122"
+build_time: [548697611, 422315000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-Logger.git--429101405906730625/Sources/FileLogger.swift": [548697560, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-Logger.git--429101405906730625/Sources/RemoteLogger.swift": [548697560, 0]

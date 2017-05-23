@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "446e7f03591b7b2bb515fd31a531899f"
+build_time: [548697614, 307455000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HPACK.swift": [548697557, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Request.swift": [548697557, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Response.swift": [548697557, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2.swift": [548697557, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [548697557, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [548697557, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [548697557, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [548697557, 0]

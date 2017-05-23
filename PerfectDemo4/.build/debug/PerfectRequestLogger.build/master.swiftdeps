@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "68d19dbbdd66511eb771141a316ee092"
+build_time: [548697616, 426077000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-RequestLogger.git-3102495399181047151/Sources/PerfectRequestLogger.swift": [548697562, 0]

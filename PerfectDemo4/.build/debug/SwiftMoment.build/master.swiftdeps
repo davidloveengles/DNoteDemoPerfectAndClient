@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "15211d1b8a4d3180a4056739d083c5fd"
+build_time: [548697592, 398312000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftMoment.git--2912679366309029826/Sources/SwiftMoment/Duration.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftMoment.git--2912679366309029826/Sources/SwiftMoment/Extensions.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftMoment.git--2912679366309029826/Sources/SwiftMoment/Moment.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftMoment.git--2912679366309029826/Sources/SwiftMoment/MomentFromNow.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftMoment.git--2912679366309029826/Sources/SwiftMoment/Operators.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftMoment.git--2912679366309029826/Sources/SwiftMoment/TimeUnit.swift": [548697561, 0]

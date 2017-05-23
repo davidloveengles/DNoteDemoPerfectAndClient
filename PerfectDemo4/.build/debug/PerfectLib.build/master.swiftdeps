@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "7d2e60bb202da12e700ac98ac0ae0d64"
+build_time: [548697592, 398323000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Bytes.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Dir.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/File.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/JSONConvertible.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Log.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectError.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectServer.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SwiftCompatibility.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SysProcess.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Utilities.swift": [548697559, 0]

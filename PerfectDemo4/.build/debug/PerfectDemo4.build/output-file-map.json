@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/master.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/Sources/ContentTableOperator.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ContentTableOperator.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ContentTableOperator.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ContentTableOperator~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ContentTableOperator.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/Sources/DBBaseOperator.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/DBBaseOperator.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/DBBaseOperator.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/DBBaseOperator~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/DBBaseOperator.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/Sources/main.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/main.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/main.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/main.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/Sources/MySQLConnect.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/MySQLConnect.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/MySQLConnect.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/MySQLConnect~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/MySQLConnect.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/Sources/ServerManager.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ServerManager.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ServerManager.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ServerManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/ServerManager.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/Sources/UserTableOperator.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/UserTableOperator.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/UserTableOperator.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/UserTableOperator~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/PerfectDemo4.build/UserTableOperator.swiftdeps"
+  }
+}

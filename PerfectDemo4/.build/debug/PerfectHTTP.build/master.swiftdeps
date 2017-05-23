@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "f8abe8c196022f209db83d93183682c6"
+build_time: [548697609, 386437000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [548697561, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [548697561, 0]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "d5efae15f15a03c36eefd015b1cf5ecf"
+build_time: [548697592, 398259000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftRandom.git--6412955993590123727/Sources/SwiftRandom/Random.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftRandom.git--6412955993590123727/Sources/SwiftRandom/Randoms.swift": [548697559, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/SwiftRandom.git--6412955993590123727/Sources/SwiftRandom/URandom.swift": [548697559, 0]

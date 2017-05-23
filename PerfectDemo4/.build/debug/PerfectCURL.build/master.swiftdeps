@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "ee27d22916b3bd169e7c703b44724b8a"
+build_time: [548697609, 386437000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/cURL.swift": [548697558, 0]

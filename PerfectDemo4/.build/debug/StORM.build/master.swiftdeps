@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "56b89c1d5ce4a26af40e73b95dec7666"
+build_time: [548697603, 695389000]
+inputs:
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORM.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMConnect.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMCursor.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMDataSource.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMDataSourceCredentials.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMDataSourceOptions.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMError.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMJoins.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMProtocol.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMRow.swift": [548697558, 0]
+  "/Users/Dai/Desktop/Studing/swift\u670D\u52A1\u7AEF/PerfectDemo4/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMtResultSet.swift": [548697558, 0]

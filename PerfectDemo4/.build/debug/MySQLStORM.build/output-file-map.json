@@ -1,0 +1,65 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/master.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Convenience.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Convenience.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Convenience.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Convenience~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Convenience.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Delete.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Delete.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Delete.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Delete~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Delete.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Insert.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Insert.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Insert.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Insert~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Insert.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/MySQLConnect.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLConnect.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLConnect.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLConnect~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLConnect.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/MySQLStORM.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLStORM.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLStORM.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLStORM~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/MySQLStORM.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/parseRows.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/parseRows.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/parseRows.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/parseRows~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/parseRows.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Select.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Select.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Select.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Select~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Select.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/SQL.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/SQL.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/SQL.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/SQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/SQL.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Update.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Update.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Update.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Update~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Update.swiftdeps"
+  },
+  "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/checkouts/MySQL-StORM-7492725482053227634/Sources/Upsert.swift": {
+    "dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Upsert.d",
+    "object": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Upsert.swift.o",
+    "swiftmodule": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Upsert~partial.swiftmodule",
+    "swift-dependencies": "/Users/Dai/Desktop/Studing/swift服务端/PerfectDemo4/.build/debug/MySQLStORM.build/Upsert.swiftdeps"
+  }
+}
